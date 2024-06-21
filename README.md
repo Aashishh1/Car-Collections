@@ -1,4 +1,4 @@
-<div align='center'><img style="width:30%" src='https://github.com/Aashishh1/CAR-Collections/assets/118424908/4a3af945-3d72-4fa9-b8c5-2e3702efae47'/></div>
+<div align='center'><img style="width:30%" src='https://github.com/Aashishh1/Car-Collections/assets/118424908/d4b2c9ce-9035-43d0-8c82-7775cf0cdbbe)'></div>
 
 <h2>About the project</h2>
 
@@ -18,7 +18,7 @@
 
 <div align='center'>
   
-![model1](https://github.com/Aashishh1/CAR-Collections/assets/118424908/723d0f4f-606a-4979-9f1e-a7766e3f0ad4)
+![model1](https://github.com/Aashishh1/Car-Collections/assets/118424908/13695b21-47aa-48de-9c1a-11ba5933e2ab)
 
 </div>
 
@@ -28,7 +28,7 @@
 
 <div align='center'>
   
-![model2](https://github.com/Aashishh1/CAR-Collections/assets/118424908/6c91f30e-56c4-42ed-8c62-633fde7fb9f4)
+![model2](https://github.com/Aashishh1/Car-Collections/assets/118424908/22cf8305-f443-48bb-9e6f-4026c1d1c0bd)
 
 </div>
 
@@ -38,7 +38,7 @@
 
 <div align='center'>
   
-![model3](https://github.com/Aashishh1/CAR-Collections/assets/118424908/e9a2a8d3-2b66-4129-b8a3-71a751686cf3)
+![model3](https://github.com/Aashishh1/Car-Collections/assets/118424908/39e9aac0-28a9-43ff-9db1-86c62fd3249a)
 
 </div>
 
@@ -48,7 +48,8 @@
 
 <div align='center'>
   
-<img src="Car Image Slider/image/model4.jpg">
+![model4](https://github.com/Aashishh1/Car-Collections/assets/118424908/77f5b93d-40bf-480a-8cf4-57e6cbb4ab3d)
+
 
 </div>
 
@@ -58,7 +59,8 @@
 
 <div align='center'>
   
-<img src="Car Image Slider/image/model5.webp">
+  ![model5](https://github.com/Aashishh1/Car-Collections/assets/118424908/1bb2ea11-577d-4b81-abc8-85c2def924a4)
+
 
 </div>
 
@@ -68,7 +70,7 @@
 
 <div align='center'>
   
-![model7](https://github.com/Aashishh1/CAR-Collections/assets/118424908/fae7713b-e7e1-4799-9289-f6b768750679)
+![model7](https://github.com/Aashishh1/Car-Collections/assets/118424908/f2b608a6-e241-4722-af7e-e19a73c4aaa2)
 
 </div>
 
@@ -78,7 +80,7 @@
 
 <div align='center'>
   
-![model6](https://github.com/Aashishh1/CAR-Collections/assets/118424908/eb631f76-7be4-44b0-8aa1-040208cef807)
+![model6](https://github.com/Aashishh1/Car-Collections/assets/118424908/61d1a982-49c3-457f-9a10-bd05fb492d4d)
 
 </div>
 
@@ -87,7 +89,7 @@
 <h3 align='center'>Rolls Royce Droptail 🚘</h3>
 
 <div align='center'>
-  
-![model8](https://github.com/Aashishh1/CAR-Collections/assets/118424908/c91d802b-2c84-4665-9e1e-c003ec9ab8bd) 
+   
+![model8](https://github.com/Aashishh1/Car-Collections/assets/118424908/b463d266-09f1-45c7-b127-4abd02b1c4e3)
 
 </div>
