@@ -1,4 +1,4 @@
-<div align='center'><img style="width:30%" src='https://github.com/Aashishh1/Car-Collections/assets/118424908/d4b2c9ce-9035-43d0-8c82-7775cf0cdbbe)'></div>
+<div align='center'><img style="width:30%" src='https://github.com/Aashishh1/Car-Collections/assets/118424908/d4b2c9ce-9035-43d0-8c82-7775cf0cdbbe'/></div>
 
 <h2>About the project</h2>
 
