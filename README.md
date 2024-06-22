@@ -2,9 +2,7 @@
 
 <h2>About the project</h2>
 
-<p>I have created this car collection website according to my preferences. I really like the cars here, and I'm sure you'll like them too. Take a look at the website once. </p>
-
-👉 Live Demo: <a href='https://cars-collections.netlify.app/'>Cars Collections</a>
+<p>I have created this car collection Card according to my preferences. I really like the cars here, and I'm sure you'll like them too. </p>
 
 <h3>Build with:</h3>
 
